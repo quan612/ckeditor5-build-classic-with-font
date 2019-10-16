@@ -6,21 +6,22 @@ The build version cannot be imported directly into React project, so the source 
 
 This project is a fork from [CKEditor 5 Classic Editor Build](https://github.com/ckeditor/ckeditor5-build-classic). 
 
-Added plugins:
-*FontFamily from '@ckeditor/ckeditor5-font/src/fontfamily';
+## Added plugins:
 
-*FontSize from '@ckeditor/ckeditor5-font/src/fontsize';
++FontFamily from '@ckeditor/ckeditor5-font/src/fontfamily';
 
-*FontColor from '@ckeditor/ckeditor5-font/src/fontcolor';
++FontSize from '@ckeditor/ckeditor5-font/src/fontsize';
 
-*FontBackGroundColor from '@ckeditor/ckeditor5-font/src/fontbackgroundcolor';
++FontColor from '@ckeditor/ckeditor5-font/src/fontcolor';
 
-Install:
++FontBackGroundColor from '@ckeditor/ckeditor5-font/src/fontbackgroundcolor';
+
+## Install:
 ```bash
 npm install --save https://github.com/quan612/ckeditor5-build-classic-with-font
 ```
 
-Usage:
+## Usage:
 ```bash
 import CKEditor from "@ckeditor/ckeditor5-react";
 import ClassicEditor from "@ckeditor5-build-classic-with-font/ckeditor5-build-classic";
