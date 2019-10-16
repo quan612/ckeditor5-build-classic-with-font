@@ -1,15 +1,19 @@
 # CKEditor 5 classic editor build with Font feature
 
 Due to issue mentioned in https://github.com/ckeditor/ckeditor5/issues/2072
+
 The build version cannot be imported directly into React project, so the source must be published to git and then we manually install into the React project.
 
 This project is a fork from [CKEditor 5 Classic Editor Build](https://github.com/ckeditor/ckeditor5-build-classic). 
 
 Added plugins:
-FontFamily from '@ckeditor/ckeditor5-font/src/fontfamily';
-FontSize from '@ckeditor/ckeditor5-font/src/fontsize';
-FontColor from '@ckeditor/ckeditor5-font/src/fontcolor';
-FontBackGroundColor from '@ckeditor/ckeditor5-font/src/fontbackgroundcolor';
+*FontFamily from '@ckeditor/ckeditor5-font/src/fontfamily';
+
+*FontSize from '@ckeditor/ckeditor5-font/src/fontsize';
+
+*FontColor from '@ckeditor/ckeditor5-font/src/fontcolor';
+
+*FontBackGroundColor from '@ckeditor/ckeditor5-font/src/fontbackgroundcolor';
 
 Install:
 ```bash
