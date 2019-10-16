@@ -40,3 +40,5 @@ import ClassicEditor from "@ckeditor5-build-classic-with-font/ckeditor5-build-cl
              }}
 />
 ```
+
+![CKEditor with Font](https://github.com/quan612/ckeditor5-build-classic-with-font/blob/master/CKEditor.PNG)
