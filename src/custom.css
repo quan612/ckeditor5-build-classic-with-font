@@ -7,8 +7,8 @@
     --ck-color-base-active:#0AC6E0;
     --ck-color-base-focus:#0AC6E0; 
     --ck-focus-ring:#0AC6E0; */
-    
-    --ck-color-base-border:#161C20;
+
+    --ck-color-base-border:transparent;
     /* Overrides the border radius setting in the theme. */
     /* Overrides the default font size in the theme. */
     --ck-border-radius: 4px;
