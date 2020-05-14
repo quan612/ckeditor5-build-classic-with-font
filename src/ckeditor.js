@@ -64,12 +64,12 @@ ClassicEditor.builtinPlugins = [
 ClassicEditor.defaultConfig = {
 	toolbar: {
 		items: [
-			"heading",
-			"|",
+			// "heading",
+			// "|",
 			"alignment",
 			"bold",
 			"italic",
-			"link",
+			// "link",
 			"|",
 			"fontFamily",
 			"fontColor",
@@ -80,8 +80,8 @@ ClassicEditor.defaultConfig = {
 			"numberedList",
 			"imageUpload",
 			"blockQuote",
-			"insertTable",
-			"mediaEmbed",
+			// "insertTable",
+			// "mediaEmbed",
 			"undo",
 			"redo",
 		],
